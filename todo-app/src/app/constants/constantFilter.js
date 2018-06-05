@@ -1,0 +1,4 @@
+export const K_SHOW_ALL = 'SHOW_ALL';
+export const K_SHOW_ACTIVE = 'SHOW_ACTIVE';
+export const K_SHOW_COMPLETED = 'SHOW_COMPLETED';
+export const K_SET_VISIBILITY_FILTER = 'VISIBILITY_FILTER';

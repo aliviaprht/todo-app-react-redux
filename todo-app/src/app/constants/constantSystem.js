@@ -1,0 +1,1 @@
+export const K_SYSTEM_RESET_ALL = 'RESET_ALL'
